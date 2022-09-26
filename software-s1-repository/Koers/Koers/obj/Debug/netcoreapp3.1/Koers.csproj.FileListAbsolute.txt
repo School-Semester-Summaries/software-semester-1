@@ -1,0 +1,16 @@
+C:\Users\thezo\source\repos\Koers\Koers\bin\Debug\netcoreapp3.1\Koers.exe
+C:\Users\thezo\source\repos\Koers\Koers\bin\Debug\netcoreapp3.1\Koers.deps.json
+C:\Users\thezo\source\repos\Koers\Koers\bin\Debug\netcoreapp3.1\Koers.runtimeconfig.json
+C:\Users\thezo\source\repos\Koers\Koers\bin\Debug\netcoreapp3.1\Koers.runtimeconfig.dev.json
+C:\Users\thezo\source\repos\Koers\Koers\bin\Debug\netcoreapp3.1\Koers.dll
+C:\Users\thezo\source\repos\Koers\Koers\bin\Debug\netcoreapp3.1\Koers.pdb
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.csprojAssemblyReference.cache
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.Form1.resources
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.Properties.Resources.resources
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.csproj.GenerateResource.cache
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.AssemblyInfoInputs.cache
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.AssemblyInfo.cs
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.csproj.CoreCompileInputs.cache
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.dll
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.pdb
+C:\Users\thezo\source\repos\Koers\Koers\obj\Debug\netcoreapp3.1\Koers.genruntimeconfig.cache

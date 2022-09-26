@@ -1,0 +1,9 @@
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\bin\Debug\HistoryBlastr.exe.config
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\bin\Debug\HistoryBlastr.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\bin\Debug\HistoryBlastr.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\obj\Debug\HistoryBlastr.csprojAssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\obj\Debug\HistoryBlastr.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\obj\Debug\HistoryBlastr.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\obj\Debug\HistoryBlastr.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\obj\Debug\HistoryBlastr.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\Main\HistoryBlastr\obj\Debug\HistoryBlastr.pdb

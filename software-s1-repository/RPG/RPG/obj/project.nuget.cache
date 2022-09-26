@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmMU9UDkJg4HIVpKy7BcBBMCoGRo4h/xiBoH6n77JxLgfShTRGMRL7PJYOWAhAmUpDL2LmEDHhZve088lAMEnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaan-\\source\\repos\\School-Semester-Summaries\\Semester 1 - Software\\software-s1-repository\\RPG\\RPG\\RPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\bin\Debug\Shop.exe.config
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\bin\Debug\Shop.exe
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\bin\Debug\Shop.pdb
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\obj\Debug\Shop.FMR_Shop.resources
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\obj\Debug\Shop.exe
+C:\Users\kaan-\OneDrive\Bureaublad\Playacedemy-20210609\Main\Shop\obj\Debug\Shop.pdb

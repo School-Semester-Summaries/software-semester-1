@@ -1,0 +1,11 @@
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\bin\Debug\SampleDatabase.mdf
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\bin\Debug\SampleDatabase_log.ldf
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\bin\Debug\ProjectMetDatabase.exe.config
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\bin\Debug\ProjectMetDatabase.exe
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\bin\Debug\ProjectMetDatabase.pdb
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\obj\Debug\ProjectMetDatabase.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\obj\Debug\ProjectMetDatabase.Properties.Resources.resources
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\obj\Debug\ProjectMetDatabase.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\obj\Debug\ProjectMetDatabase.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\obj\Debug\ProjectMetDatabase.exe
+C:\Users\kaan-\source\repos\ProjectMetDatabase\ProjectMetDatabase\obj\Debug\ProjectMetDatabase.pdb

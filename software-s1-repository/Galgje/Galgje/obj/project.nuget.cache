@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDToSvRZSgMprmvhZ8oTqxjESgJuQ1L2x31eIjrfsl+uFHbbj47eOJTW7tkKbWpfiFt1eQCgM26E7/SI+JHE4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaan-\\source\\repos\\School-Semester-Summaries\\Semester 1 - Software\\software-s1-repository\\Galgje\\Galgje\\Galgje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kaan-\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

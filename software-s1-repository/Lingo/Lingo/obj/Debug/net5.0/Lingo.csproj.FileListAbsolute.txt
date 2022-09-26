@@ -1,0 +1,16 @@
+C:\Users\thezo\source\repos\Lingo\Lingo\bin\Debug\net5.0\Lingo.exe
+C:\Users\thezo\source\repos\Lingo\Lingo\bin\Debug\net5.0\Lingo.deps.json
+C:\Users\thezo\source\repos\Lingo\Lingo\bin\Debug\net5.0\Lingo.runtimeconfig.json
+C:\Users\thezo\source\repos\Lingo\Lingo\bin\Debug\net5.0\Lingo.runtimeconfig.dev.json
+C:\Users\thezo\source\repos\Lingo\Lingo\bin\Debug\net5.0\Lingo.dll
+C:\Users\thezo\source\repos\Lingo\Lingo\bin\Debug\net5.0\ref\Lingo.dll
+C:\Users\thezo\source\repos\Lingo\Lingo\bin\Debug\net5.0\Lingo.pdb
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.csprojAssemblyReference.cache
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.AssemblyInfoInputs.cache
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.AssemblyInfo.cs
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.csproj.CoreCompileInputs.cache
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.dll
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\ref\Lingo.dll
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.pdb
+C:\Users\thezo\source\repos\Lingo\Lingo\obj\Debug\net5.0\Lingo.genruntimeconfig.cache

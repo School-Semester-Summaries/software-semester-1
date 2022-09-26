@@ -1,0 +1,10 @@
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\bin\Debug\EendenVijver.exe.config
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\bin\Debug\EendenVijver.exe
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\bin\Debug\EendenVijver.pdb
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\obj\Debug\EendenVijver.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\obj\Debug\EendenVijver.FRM_EendenVijver.resources
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\obj\Debug\EendenVijver.Properties.Resources.resources
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\obj\Debug\EendenVijver.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\obj\Debug\EendenVijver.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\obj\Debug\EendenVijver.exe
+C:\Users\kaan-\source\repos\EendenVijver\EendenVijver\obj\Debug\EendenVijver.pdb

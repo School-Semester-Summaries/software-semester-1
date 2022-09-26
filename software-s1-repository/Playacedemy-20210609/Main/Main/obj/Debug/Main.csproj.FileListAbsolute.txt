@@ -1,0 +1,14 @@
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\Main\Main\bin\Debug\Main.exe.config
+C:\Users\ruben\source\repos\Main\Main\bin\Debug\Main.exe
+C:\Users\ruben\source\repos\Main\Main\bin\Debug\Main.pdb
+C:\Users\ruben\source\repos\Main\Main\bin\Debug\Program1(Astroblastr).exe
+C:\Users\ruben\source\repos\Main\Main\bin\Debug\Program1(Astroblastr).pdb
+C:\Users\ruben\source\repos\Main\Main\bin\Debug\Program1(Astroblastr).exe.config
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.exe
+C:\Users\ruben\source\repos\Main\Main\obj\Debug\Main.pdb

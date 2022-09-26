@@ -1,0 +1,10 @@
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\bin\Debug\KnightsAndWalls.exe.config
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\bin\Debug\KnightsAndWalls.exe
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\bin\Debug\KnightsAndWalls.pdb
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\obj\Debug\KnightsAndWalls.FRM_KnightsAndWalls.resources
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\obj\Debug\KnightsAndWalls.Properties.Resources.resources
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\obj\Debug\KnightsAndWalls.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\obj\Debug\KnightsAndWalls.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\obj\Debug\KnightsAndWalls.exe
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\obj\Debug\KnightsAndWalls.pdb
+C:\Users\kaan-\source\repos\KnightsAndWalls\KnightsAndWalls\obj\Debug\KnightsAndWalls.csproj.AssemblyReference.cache

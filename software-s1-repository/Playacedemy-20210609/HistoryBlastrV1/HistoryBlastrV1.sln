@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryBlastrV1", "HistoryBlastrV1.csproj", "{48E9DB7D-B1CA-494E-A8A4-EAFDED228DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E9DB7D-B1CA-494E-A8A4-EAFDED228DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E9DB7D-B1CA-494E-A8A4-EAFDED228DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E9DB7D-B1CA-494E-A8A4-EAFDED228DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E9DB7D-B1CA-494E-A8A4-EAFDED228DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E66859AF-D410-4E21-812A-8345C7FD978F}
+	EndGlobalSection
+EndGlobal

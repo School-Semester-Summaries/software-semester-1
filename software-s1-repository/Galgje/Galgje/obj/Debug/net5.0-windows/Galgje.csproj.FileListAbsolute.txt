@@ -1,0 +1,36 @@
+C:\Users\thezo\source\repos\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.exe
+C:\Users\thezo\source\repos\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.deps.json
+C:\Users\thezo\source\repos\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.runtimeconfig.json
+C:\Users\thezo\source\repos\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.runtimeconfig.dev.json
+C:\Users\thezo\source\repos\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.dll
+C:\Users\thezo\source\repos\Galgje\Galgje\bin\Debug\net5.0-windows\ref\Galgje.dll
+C:\Users\thezo\source\repos\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.pdb
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.csprojAssemblyReference.cache
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.FRM_Galgje.resources
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.csproj.GenerateResource.cache
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.AssemblyInfoInputs.cache
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.AssemblyInfo.cs
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.dll
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\ref\Galgje.dll
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.pdb
+C:\Users\thezo\source\repos\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.genruntimeconfig.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.exe
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.deps.json
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.runtimeconfig.json
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.runtimeconfig.dev.json
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.dll
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\bin\Debug\net5.0-windows\Galgje.pdb
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.FRM_Galgje.resources
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.dll
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\refint\Galgje.dll
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.pdb
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\Galgje.genruntimeconfig.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\Galgje\Galgje\obj\Debug\net5.0-windows\ref\Galgje.dll

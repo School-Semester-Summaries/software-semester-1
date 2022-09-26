@@ -1,0 +1,10 @@
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\bin\Debug\AvoidTheCat.exe.config
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\bin\Debug\AvoidTheCat.exe
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\bin\Debug\AvoidTheCat.pdb
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\obj\Debug\AvoidTheCat.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\obj\Debug\AvoidTheCat.FRM_AvoidTheCat.resources
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\obj\Debug\AvoidTheCat.Properties.Resources.resources
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\obj\Debug\AvoidTheCat.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\obj\Debug\AvoidTheCat.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\obj\Debug\AvoidTheCat.exe
+C:\Users\kaan-\source\repos\AvoidTheCat\AvoidTheCat\obj\Debug\AvoidTheCat.pdb

@@ -1,0 +1,10 @@
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\bin\Debug\TetrisAttack.exe.config
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\bin\Debug\TetrisAttack.exe
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\bin\Debug\TetrisAttack.pdb
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\obj\Debug\TetrisAttack.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\obj\Debug\TetrisAttack.FRM_TetrisAttack.resources
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\obj\Debug\TetrisAttack.Properties.Resources.resources
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\obj\Debug\TetrisAttack.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\obj\Debug\TetrisAttack.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\obj\Debug\TetrisAttack.exe
+C:\Users\kaan-\source\repos\TetrisAttack\TetrisAttack\obj\Debug\TetrisAttack.pdb

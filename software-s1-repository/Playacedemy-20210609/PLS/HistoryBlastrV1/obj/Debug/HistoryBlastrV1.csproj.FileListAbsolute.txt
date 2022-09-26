@@ -1,0 +1,93 @@
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe.config
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.pdb
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csprojAssemblyReference.cache
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.frmHistoryblastr.resources
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.Properties.Resources.resources
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.GenerateResource.cache
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.exe
+C:\Users\brian\Documents\School Fontys\Semester 1.2\Talk to me\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.frmHistoryblastr.resources
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe.config
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csprojAssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Collection.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Collection.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe.config
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Collection.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Google.Protobuf.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\MySql.Data.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Buffers.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Memory.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Zstandard.Net.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Collection.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Google.Protobuf.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Google.Protobuf.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\MySql.Data.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Buffers.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Memory.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csprojAssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.frmHistoryblastr.resources
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe.config
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\HistoryBlastrV1.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Collection.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Google.Protobuf.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\MySql.Data.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Buffers.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Memory.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Zstandard.Net.dll
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Collection.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Google.Protobuf.pdb
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\Google.Protobuf.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\MySql.Data.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Buffers.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Memory.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csprojAssemblyReference.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.frmHistoryblastr.resources
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.exe
+C:\Users\ruben\OneDrive\Documents\Playacedemy-20210610-2\Playacedemy-20210609\HistoryBlastrV1\obj\Debug\HistoryBlastrV1.pdb

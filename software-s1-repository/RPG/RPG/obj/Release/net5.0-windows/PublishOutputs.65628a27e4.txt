@@ -1,0 +1,5 @@
+C:\Users\kaan-\source\repos\RPG\RPG\bin\publish\RPG.exe
+C:\Users\kaan-\source\repos\RPG\RPG\bin\publish\RPG.dll
+C:\Users\kaan-\source\repos\RPG\RPG\bin\publish\RPG.deps.json
+C:\Users\kaan-\source\repos\RPG\RPG\bin\publish\RPG.runtimeconfig.json
+C:\Users\kaan-\source\repos\RPG\RPG\bin\publish\RPG.pdb

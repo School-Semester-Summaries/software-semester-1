@@ -1,0 +1,21 @@
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\kaan-\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

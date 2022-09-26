@@ -1,0 +1,32 @@
+C:\Users\thezo\source\repos\RPG\RPG\bin\Debug\net5.0-windows\RPG.exe
+C:\Users\thezo\source\repos\RPG\RPG\bin\Debug\net5.0-windows\RPG.deps.json
+C:\Users\thezo\source\repos\RPG\RPG\bin\Debug\net5.0-windows\RPG.runtimeconfig.json
+C:\Users\thezo\source\repos\RPG\RPG\bin\Debug\net5.0-windows\RPG.runtimeconfig.dev.json
+C:\Users\thezo\source\repos\RPG\RPG\bin\Debug\net5.0-windows\RPG.dll
+C:\Users\thezo\source\repos\RPG\RPG\bin\Debug\net5.0-windows\ref\RPG.dll
+C:\Users\thezo\source\repos\RPG\RPG\bin\Debug\net5.0-windows\RPG.pdb
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.Properties.Resources.resources
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.csproj.GenerateResource.cache
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.AssemblyInfoInputs.cache
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.AssemblyInfo.cs
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.csproj.CoreCompileInputs.cache
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.dll
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\ref\RPG.dll
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.pdb
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.genruntimeconfig.cache
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.FRM_RPG.resources
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.FRM_Field.resources
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.FRM_Meeting.resources
+C:\Users\thezo\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.csprojAssemblyReference.cache
+C:\Users\kaan-\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.dll
+C:\Users\kaan-\source\repos\RPG\RPG\obj\Debug\net5.0-windows\ref\RPG.dll
+C:\Users\kaan-\source\repos\RPG\RPG\obj\Debug\net5.0-windows\RPG.pdb
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\RPG\RPG\obj\Debug\net5.0-windows\RPG.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\RPG\RPG\obj\Debug\net5.0-windows\RPG.FRM_Field.resources
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\RPG\RPG\obj\Debug\net5.0-windows\RPG.FRM_RPG.resources
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\RPG\RPG\obj\Debug\net5.0-windows\RPG.FRM_Meeting.resources
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\RPG\RPG\obj\Debug\net5.0-windows\RPG.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\RPG\RPG\obj\Debug\net5.0-windows\RPG.dll
+C:\Users\kaan-\source\repos\School-Semester-Summaries\Semester 1 - Software\software-s1-repository\RPG\RPG\obj\Debug\net5.0-windows\RPG.pdb
