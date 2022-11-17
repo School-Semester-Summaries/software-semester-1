@@ -9,6 +9,11 @@ Cool image
 ## Table of contents
  - [Preface](#preface)
  - [Products](#products)
+   - [DinoGame](#dinogame)
+   - [RPG](#rpg)
+   - [BattleSim](#battlesim)
+   - [TetrisAttack](#tetrisattack)
+   - [Lingo](#lingo) 
  
 # Preface
 In this semester you start off with 5 subjects for 20 weeks. Since I've already passed these subjects in [Semester 1 Media](https://github.com/CrossyChainsaw/School-Semester-Summaries/tree/master/Semester%201%20-%20Media) I could skip them this time and start focussing on Software.
@@ -22,7 +27,7 @@ Underneath a product I sum up what learning outcomes I touched with the correspo
 Here I'll cover all products I made and what it made me practise. A lot of the products might be inspried from this [exercise page provided by school](https://stasemsoft.github.io/softwarematerial/docs/objects/). The page gets changed once in a while so if you can't find any similar exercises they probably removed them.
 
 We will go in order from favourite/coolest products to least favourite/cool.
-0
+
 ## DinoGame
 DinoGame was an exercise that was in the toolbox with exercises. With this exercise i practised the following,
 - keypresses*
@@ -66,12 +71,27 @@ The cool thing about RPG is that you can have multiple endings. Here is 1 exampl
 https://user-images.githubusercontent.com/74303221/188646135-42ac09bb-d35b-4fc5-8d80-f2ca87e16489.mov
 
 ## BattleSim
+Battle simulator, kinda like a pokemon battle. 
+- objects/ classes
+- seperating GUI en Domain
+
+_image of title screen_
+
+![image](https://user-images.githubusercontent.com/74303221/202509230-148a4ae8-9258-4879-a3b7-17aa106ad633.png)
+
 This project has its own repository -> [BattleSim Repository](https://github.com/CrossyChainsaw/BattleSim)
 
 ## TetrisAttack
-(currently bugged)
+As short as possible. This project is my version of the game Pokemon Puzzle League. But it's made in WinForms and I only made singleplayer. Here's a short video of the program (the latest version is bugged and I didn't work on it anymore)
+
+https://user-images.githubusercontent.com/74303221/202508576-5df90678-7ad1-4916-84d1-d52abaa996cc.mp4
 
 ## Lingo
+Lingo is a gameshow on dutch television. I made this into a program. Here's a screenshot,
+- Read out a textfile (using it as data)
+
+![image](https://user-images.githubusercontent.com/74303221/202525299-a85cacf0-f55c-486a-8e23-2fa21c1aed35.png)
+
 
 ## KnightsAndWalls
 
