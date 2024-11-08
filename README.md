@@ -50,7 +50,7 @@ I tried to make the spawn logic of the coin fair so that it doesn't have the cha
 
 https://user-images.githubusercontent.com/74303221/188605043-3390f24f-e23e-435c-875a-483da797ddea.mov
 
-This project has its own repository -> [DinoGame Repository](https://github.com/CrossyChainsaw/DinoGame)
+This project has its own repository -> [DinoGame Repository](https://github.com/CrossyChainsaw2/DinoGame)
 
 ## RPG
 RPG is the last exercise I made this semester to prove my teacher I understood evertything,
