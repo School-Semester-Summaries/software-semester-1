@@ -26,7 +26,7 @@ Underneath a product I sum up what learning outcomes I touched with the correspo
 # Products
 Here I'll cover all products I made and what it made me practise. A lot of the products might be inspried from this [exercise page provided by school](https://stasemsoft.github.io/softwarematerial/docs/objects/). The page gets changed once in a while so if you can't find any similar exercises they probably removed them.
 
-We will go in order from favourite/coolest products to least favourite/cool.
+We will go in order from favourite/coolest products to least favourite/cool. If a project wasn't mentioned I couldn't be bothered to write about it.
 
 ## DinoGame
 DinoGame was an exercise that was in the toolbox with exercises. With this exercise i practised the following,
@@ -91,21 +91,6 @@ Lingo is a gameshow on dutch television. I made this into a program. Here's a sc
 - Read out a textfile (using it as data)
 
 ![image](https://user-images.githubusercontent.com/74303221/202525299-a85cacf0-f55c-486a-8e23-2fa21c1aed35.png)
-
-
-## KnightsAndWalls
-
-## AvoidTheCat
-
-## EendenVijver
-
-## Sirted
-
-## AutoDagWaarde
-
-## ElkaarAchterstevoren
-
-## Worpen Generator
 
 ## Galgje
 Learning outcomes I touched with this exercise,
