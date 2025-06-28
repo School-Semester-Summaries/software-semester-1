@@ -2,7 +2,10 @@
 
 # Semester 1 - Software
 
-explain cool image
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/633af9c8-6be8-4c16-88a2-3c22192bc9f4" width="300" />
+</p>
+
 
 Cool image
 
