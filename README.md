@@ -104,7 +104,4 @@ Galgje is the dutch word for Hangman. The application is a game of hangman where
 https://user-images.githubusercontent.com/74303221/188639711-68727a3b-5c9d-4233-a7c9-54b2ae9b6a3f.mp4
 
 # Projects
-
-Playacedemy-20210609 - 10
-Shop - 4,5 (part of playacedemy)
-AstroBlastr Side Program - 4 (part of playadacemy)
+our group project is called PlayAcademy, a project wherein we educate students using gamification.
