@@ -1,5 +1,3 @@
-*Work in progress...*
-
 # Semester 1 - Software
 
 <p align="center">
@@ -110,8 +108,3 @@ https://user-images.githubusercontent.com/74303221/188639711-68727a3b-5c9d-4233-
 Playacedemy-20210609 - 10
 Shop - 4,5 (part of playacedemy)
 AstroBlastr Side Program - 4 (part of playadacemy)
-
-elke n/a even opniew bekijken
-
-
-*Work in Progress...*
